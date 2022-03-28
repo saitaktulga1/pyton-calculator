@@ -1,4 +1,4 @@
-for ogrenci in range(1,6):
+for student in range(1,6):
     print(ogrenci)
     print("inci ögrenci notunu giriniz")
     yazili1=int(input("birinci yazılı notunu giriniz..:"))
